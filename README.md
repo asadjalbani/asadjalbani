@@ -1,10 +1,10 @@
 ### Hi there👋, Welcome!
 
-![Profile Picture](https://link.to/your/image.jpg)
+<!--- ![Profile Picture](https://link.to/your/image.jpg) --->
 
 # Asad Ahmed
 
-Hello! 👋 I'm Asad Ahmed, a passionate Software Engineer. I've honed my skills in building elegant solutions, initially with the MERN stack, before transitioning to Python Django. Currently, I'm immersed in learning about Data Science, including Machine Learning, CNN, ANN, NLP, Computer Vision, and Big Data. 
+Hello! 👋 I'm Asad Ahmed, a proudly 👨‍💻 [PCAP™ (Certified Associate in Python Programming certification)](https://www.credly.com/badges/0659f099-c7ac-47cb-94b3-766ebbd4b690) Certified Python Engineer. with expertise in Python, Django, and Data Science including ML, CNN, ANN, NLP, Computer Vision, and Big Data. Let's build something amazing together!. 
 
 I also find joy in actively participating in various communities, hackathons, and competitions.
 
@@ -58,7 +58,7 @@ Let's create something amazing together! 🚀
 ![Backend](https://img.shields.io/badge/Backend-2F8CDD?style=for-the-badge)
 
 
-- 🔭 I’m currently working on Computer Vision project.
+- 🔭 I’m currently working on Data Science & Django.
 - 🌱 I’m currently learning Data Science(ML, ANN, CNN, NLP, Big Data)
 - 📫 How to reach me: asadjalbani ([Twitter](https://twitter.com/asad_codes), [Linkedin](https://www.linkedin.com/in/asad-ahmed-jalbani/))
 - 😄 Pronouns: He/Him
