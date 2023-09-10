@@ -4,7 +4,7 @@
 
 # Asad Ahmed
 
-Hello! 👋 I'm Asad Ahmed, a proudly 👨‍💻 [PCAP™ (Certified Associate in Python Programming certification)](https://www.credly.com/badges/0659f099-c7ac-47cb-94b3-766ebbd4b690) Certified Python Engineer. with expertise in Python, Django, and Data Science including ML, CNN, ANN, NLP, Computer Vision, and Big Data. Let's build something amazing together!. 
+Hello! 👋 I'm Asad Ahmed, a proudly 👨‍💻 [PCAP™ (Certified Associate in Python Programming)](https://www.credly.com/badges/0659f099-c7ac-47cb-94b3-766ebbd4b690) Certified Python Engineer. with expertise in Python, Django, and Data Science including ML, CNN, ANN, NLP, Computer Vision, and Big Data. Let's build something amazing together!. 
 
 I also find joy in actively participating in various communities, hackathons, and competitions.
 
