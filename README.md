@@ -58,8 +58,8 @@ Let's create something amazing together! 🚀
 ![Backend](https://img.shields.io/badge/Backend-2F8CDD?style=for-the-badge)
 
 
-- 🔭 I’m currently working on Data Science & Django.
-- 🌱 I’m currently learning Data Science(ML, ANN, CNN, NLP, Big Data)
+- 🔭 I’m currently working on ML/DL & Django.
+- 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me: asadjalbani ([Twitter](https://twitter.com/asad_codes), [Linkedin](https://www.linkedin.com/in/asad-ahmed-jalbani/))
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When you call my name as a  Asad, it means "lion" in Arabic, embodying strength and courage. 🦁🌟
